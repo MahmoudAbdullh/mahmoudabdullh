@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudabdullh" alt="mahmoudabdullh" /></a> </p>
 
-- 🔭 I’m currently working on [KIB digiatal factory](https://www.kib.com.kw/en/home/Personal.html)
+- 🔭 I’m currently working at [TETCO](https://tetco.sa/ar)
 
 - 🌱 I’m currently learning **ReactNative, nestjs**
 
